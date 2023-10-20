@@ -1,0 +1,11 @@
+Coverage Percentage|||Cycles        # High pruning (with nu pruning, we got less good results, but for a similar test class we got better results)
+25 , 125                            # A simulator cycling its randomized values "randc" will yield better results (we don't have access to that).
+50 , 528
+75 , 2171
+100 , 14619
+
+Coverage Percentage|||Cycles         # NO PRUNING
+25 , 117
+50 , 306
+75 , 654
+99 , 9584

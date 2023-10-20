@@ -1,0 +1,4 @@
+var g_db_data = [
+{dummy:0},
+{name:'master_grant',f:1,type:6,id:811,tb:'1000',h:'1000',m:'0',hp:'100.00%',cov:['100.00%','G'],g:'100.00%',gp:['100.00%','G'],opts:[[],['merge_instance','auto(true)']],hdlPath:'/coverages_package/bus_request_coverage',parent:'810'}];
+processConsCovergroupsData(g_db_data);

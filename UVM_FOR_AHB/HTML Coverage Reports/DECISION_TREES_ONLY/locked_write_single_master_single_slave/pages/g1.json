@@ -1,0 +1,7 @@
+var g_data = {
+g816:[{dummy:0},
+{name:'written_all_cases',f:1,type:1,id:817,tb:'350',h:'74',m:'276',hp:'21.14%',cov:['77.00%','Y'],g:'100.00%',gp:['77.00%','Y'],opts:[[],['merge_instance','auto(true)']],parent:'816'},
+{name:'\\/coverages_package::locked_write_single_master_single_slave_coverage::written_all_cases ',f:1,type:2,id:821,tb:'350',h:'74',m:'276',hp:'21.14%',cov:['69.33%','Y'],g:'100.00%',gp:['69.33%','Y'],opts:[[],['per_instance','true']],cvg:'written_all_cases',parent:'817'}],
+dummyEnd:0
+};
+processCovergroupsData(g_data);

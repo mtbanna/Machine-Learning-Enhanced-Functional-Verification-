@@ -1,0 +1,35 @@
+var g_data = {
+z811:{prod:'Questa',reporttype:'in',scopes:[{s:'809',b:'1',val:'coverages_package'},{link:'z.htm?f=1&s=811',val:'basic_transfer_single_master_single_slave_coverage'}],lang:'SystemVerilog',src:{z:'C:/Users/Dell/Documents/Bachelor Thesis/UVM_FOR_AHB/tb/coverages/basic_transfer_single_master_single_slave_coverage.sv'},summaryTables:{loctable:{
+headers:['Coverage Type', 'Bins', 'Hits', 'Misses', 'Weight', '% Hit', 'Coverage'],
+totalhits:{class:'odd_r', val:'100.00%'},avgw:{class:'bgGreen', val:'100.00%'},
+data:[
+{link:{class:'odd',val:'g.htm?f=1&s=811,Covergroups'},tb:{class:'odd_r', val:'30'},cb:{class:'odd_r', val:'30'},ms:{class:'odd_r', val:'0'},wt:{class:'odd_r', val:'1'},hp:{class:'odd_r', val:'100.00%'},cp:{class:'bgGreen', val:'100.00%'}}
+]
+}
+}
+},
+z809:{prod:'Questa',reporttype:'in',scopes:[{link:'z.htm?f=1&s=809',val:'coverages_package'}],du:{val:'work.coverages_package',link:'z.htm?f=1&s=809'},lang:'SystemVerilog',src:{z:'C:/Users/Dell/Documents/Bachelor Thesis/UVM_FOR_AHB/tb/coverages/coverages_package.sv'},summaryTables:{
+headers:['Cvg'],
+instances:[{parent:'0',ln:'TOTAL',covs:[{class:'bgGreen', val:'100.00'},{class:'bgGreen', val:'100.00'}]},
+{parent:'0',ln:'coverages_package',covs:[{class:'bgGreen', val:'100.00'},{class:'bgGreen', val:'100.00'}]},
+{parent:'1',link:'z.htm?f=1&s=811',ln:'basic_transfer_single_master_single_slave_coverage',covs:[{class:'bgGreen', val:'100.00'},{class:'bgGreen', val:'100.00'}]},
+]
+,loctable:{
+headers:['Coverage Type', 'Bins', 'Hits', 'Misses', 'Weight', '% Hit', 'Coverage'],
+totalhits:{class:'odd_r', val:'100.00%'},avgw:{class:'bgGreen', val:'100.00%'},
+data:[
+{link:{class:'odd',val:'Covergroups'},tb:{class:'odd_r', val:'30'},cb:{class:'odd_r', val:'30'},ms:{class:'odd_r', val:'0'},wt:{class:'odd_r', val:'1'},hp:{class:'odd_r', val:'100.00%'},cp:{class:'bgGreen', val:'100.00%'}}
+]
+}
+,rectable:{
+headers:['Coverage Type', 'Bins', 'Hits', 'Misses', 'Weight', '% Hit', 'Coverage'],
+totalhits:{class:'odd_r', val:'100.00%'},avgw:{class:'bgGreen', val:'100.00%'},
+data:[
+{link:{class:'odd',val:'Covergroups'},tb:{class:'odd_r', val:'30'},cb:{class:'odd_r', val:'30'},ms:{class:'odd_r', val:'0'},wt:{class:'odd_r', val:'1'},hp:{class:'odd_r', val:'100.00%'},cp:{class:'bgGreen', val:'100.00%'}}
+]
+}
+}
+},
+dummyEnd:0
+};
+processSummaryData(g_data);

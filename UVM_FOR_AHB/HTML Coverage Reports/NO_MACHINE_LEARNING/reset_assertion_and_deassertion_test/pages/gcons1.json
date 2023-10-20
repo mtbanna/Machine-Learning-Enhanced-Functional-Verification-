@@ -1,0 +1,4 @@
+var g_db_data = [
+{dummy:0},
+{name:'grant_due_to_reset',f:1,type:6,id:815,tb:'2',h:'1',m:'1',hp:'50.00%',cov:['50.00%','Y'],g:'100.00%',gp:['50.00%','Y'],opts:[[],['merge_instance','auto(true)']],hdlPath:'/coverages_package/reset_assertion_and_deassertion_coverage',parent:'814'}];
+processConsCovergroupsData(g_db_data);

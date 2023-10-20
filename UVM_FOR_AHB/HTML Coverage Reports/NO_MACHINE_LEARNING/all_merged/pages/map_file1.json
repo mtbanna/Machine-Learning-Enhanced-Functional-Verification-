@@ -1,0 +1,9 @@
+var g_data = {'dummy':{null},
+'/coverages_package/bus_request_coverage':{h:'824',g:1,z:1},
+'/coverages_package/basic_transfer_single_master_single_slave_coverage':{h:'827',g:1,z:1},
+'/coverages_package/default_master_and_slave_coverage':{h:'830',g:1,z:1},
+'/coverages_package/basic_read_single_master_single_slave_coverage':{h:'833',g:1,z:1},
+'/coverages_package/reset_assertion_and_deassertion_coverage':{h:'836',g:1,z:1},
+'/coverages_package/arbitration_and_hold_idle_state_coverage':{h:'841',g:1,z:1},
+'/coverages_package/locked_write_single_master_single_slave_coverage':{h:'845',g:1,z:1},
+'/coverages_package':{h:'823',z:1}};

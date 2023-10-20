@@ -1,0 +1,4 @@
+var g_db_data = [
+{dummy:0},
+{name:'written_all_addresses',f:1,type:6,id:812,tb:'400',h:'399',m:'1',hp:'99.75%',cov:['99.75%','G'],g:'100.00%',gp:['99.75%','G'],opts:[[],['merge_instance','auto(true)']],hdlPath:'/coverages_package/basic_transfer_single_master_single_slave_coverage',parent:'811'}];
+processConsCovergroupsData(g_db_data);

@@ -1,0 +1,4 @@
+var g_db_data = [
+{dummy:0},
+{name:'different_requests_addresses',f:1,type:6,id:813,tb:'231',h:'231',m:'0',hp:'100.00%',cov:['100.00%','G'],g:'100.00%',gp:['100.00%','G'],opts:[[],['merge_instance','auto(true)']],hdlPath:'/coverages_package/default_master_and_slave_coverage',parent:'812'}];
+processConsCovergroupsData(g_db_data);

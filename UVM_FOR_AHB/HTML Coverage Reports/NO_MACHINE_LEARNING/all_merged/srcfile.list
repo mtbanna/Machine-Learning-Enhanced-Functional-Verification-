@@ -1,0 +1,8 @@
+C:/Users/Dell/Documents/Bachelor Thesis/UVM_FOR_AHB/tb/coverages/arbitration_and_hold_idle_state_coverage.sv
+C:/Users/Dell/Documents/Bachelor Thesis/UVM_FOR_AHB/tb/coverages/basic_read_single_master_single_slave_coverage.sv
+C:/Users/Dell/Documents/Bachelor Thesis/UVM_FOR_AHB/tb/coverages/basic_transfer_single_master_single_slave_coverage.sv
+C:/Users/Dell/Documents/Bachelor Thesis/UVM_FOR_AHB/tb/coverages/bus_request_coverage.sv
+C:/Users/Dell/Documents/Bachelor Thesis/UVM_FOR_AHB/tb/coverages/coverages_package.sv
+C:/Users/Dell/Documents/Bachelor Thesis/UVM_FOR_AHB/tb/coverages/default_master_and_slave_coverage.sv
+C:/Users/Dell/Documents/Bachelor Thesis/UVM_FOR_AHB/tb/coverages/locked_write_single_master_single_slave_coverage.sv
+C:/Users/Dell/Documents/Bachelor Thesis/UVM_FOR_AHB/tb/coverages/reset_assertion_and_deassertion_coverage.sv

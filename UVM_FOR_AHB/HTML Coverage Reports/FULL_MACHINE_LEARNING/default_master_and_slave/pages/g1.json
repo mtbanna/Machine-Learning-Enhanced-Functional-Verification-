@@ -1,0 +1,6 @@
+var g_data = {
+g812:[{dummy:0},
+{name:'different_requests_addresses',f:1,type:1,id:813,tb:'231',h:'231',m:'0',hp:'100.00%',cov:['100.00%','G'],g:'100.00%',gp:['100.00%','G'],opts:[[],['merge_instance','auto(true)']],parent:'812'}],
+dummyEnd:0
+};
+processCovergroupsData(g_data);

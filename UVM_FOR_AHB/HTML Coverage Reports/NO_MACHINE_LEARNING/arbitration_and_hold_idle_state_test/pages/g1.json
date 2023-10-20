@@ -1,0 +1,6 @@
+var g_data = {
+g815:[{dummy:0},
+{name:'arbitration',f:1,type:1,id:816,tb:'2',h:'2',m:'0',hp:'100.00%',cov:['100.00%','G'],g:'100.00%',gp:['100.00%','G'],opts:[[],['merge_instance','auto(true)']],parent:'815'}],
+dummyEnd:0
+};
+processCovergroupsData(g_data);

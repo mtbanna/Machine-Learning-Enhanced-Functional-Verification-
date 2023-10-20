@@ -1,0 +1,13 @@
+-html
+-htmldir
+C:/Users/Dell/Documents/Bachelor Thesis/UVM_FOR_AHB/HTML Coverage Reports
+-assert
+-directive
+-cvg
+-code
+bcefst
+-threshL
+50
+-threshH
+90
+C:/Users/Dell/Documents/Bachelor

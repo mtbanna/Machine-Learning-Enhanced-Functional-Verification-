@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['results_generator.py', 'locked_write_single_master_single_slave_text\\k_clustering.py', 'locked_write_single_master_single_slave_text\\classification_tree.py', 'locked_write_single_master_single_slave_text\\classification_tree_for_every_cluster.py', 'bus_request_test\\classification_tree_for_every_cluster.py', 'bus_request_test\\classification_tree.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+

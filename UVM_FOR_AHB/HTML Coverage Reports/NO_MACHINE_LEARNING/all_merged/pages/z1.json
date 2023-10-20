@@ -1,0 +1,95 @@
+var g_data = {
+z824:{prod:'Questa',reporttype:'in',scopes:[{s:'823',b:'1',val:'coverages_package'},{link:'z.htm?f=1&s=824',val:'bus_request_coverage'}],lang:'SystemVerilog',src:{z:'C:/Users/Dell/Documents/Bachelor Thesis/UVM_FOR_AHB/tb/coverages/bus_request_coverage.sv'},summaryTables:{loctable:{
+headers:['Coverage Type', 'Bins', 'Hits', 'Misses', 'Weight', '% Hit', 'Coverage'],
+totalhits:{class:'odd_r', val:'100.00%'},avgw:{class:'bgGreen', val:'100.00%'},
+data:[
+{link:{class:'odd',val:'g.htm?f=1&s=824,Covergroups'},tb:{class:'odd_r', val:'1000'},cb:{class:'odd_r', val:'1000'},ms:{class:'odd_r', val:'0'},wt:{class:'odd_r', val:'1'},hp:{class:'odd_r', val:'100.00%'},cp:{class:'bgGreen', val:'100.00%'}}
+]
+}
+}
+},
+z827:{prod:'Questa',reporttype:'in',scopes:[{s:'823',b:'1',val:'coverages_package'},{link:'z.htm?f=1&s=827',val:'basic_transfer_single_master_single_slave_coverage'}],lang:'SystemVerilog',src:{z:'C:/Users/Dell/Documents/Bachelor Thesis/UVM_FOR_AHB/tb/coverages/basic_transfer_single_master_single_slave_coverage.sv'},summaryTables:{loctable:{
+headers:['Coverage Type', 'Bins', 'Hits', 'Misses', 'Weight', '% Hit', 'Coverage'],
+totalhits:{class:'odd_r', val:'100.00%'},avgw:{class:'bgGreen', val:'100.00%'},
+data:[
+{link:{class:'odd',val:'g.htm?f=1&s=827,Covergroups'},tb:{class:'odd_r', val:'30'},cb:{class:'odd_r', val:'30'},ms:{class:'odd_r', val:'0'},wt:{class:'odd_r', val:'1'},hp:{class:'odd_r', val:'100.00%'},cp:{class:'bgGreen', val:'100.00%'}}
+]
+}
+}
+},
+z830:{prod:'Questa',reporttype:'in',scopes:[{s:'823',b:'1',val:'coverages_package'},{link:'z.htm?f=1&s=830',val:'default_master_and_slave_coverage'}],lang:'SystemVerilog',src:{z:'C:/Users/Dell/Documents/Bachelor Thesis/UVM_FOR_AHB/tb/coverages/default_master_and_slave_coverage.sv'},summaryTables:{loctable:{
+headers:['Coverage Type', 'Bins', 'Hits', 'Misses', 'Weight', '% Hit', 'Coverage'],
+totalhits:{class:'odd_r', val:'100.00%'},avgw:{class:'bgGreen', val:'100.00%'},
+data:[
+{link:{class:'odd',val:'g.htm?f=1&s=830,Covergroups'},tb:{class:'odd_r', val:'231'},cb:{class:'odd_r', val:'231'},ms:{class:'odd_r', val:'0'},wt:{class:'odd_r', val:'1'},hp:{class:'odd_r', val:'100.00%'},cp:{class:'bgGreen', val:'100.00%'}}
+]
+}
+}
+},
+z833:{prod:'Questa',reporttype:'in',scopes:[{s:'823',b:'1',val:'coverages_package'},{link:'z.htm?f=1&s=833',val:'basic_read_single_master_single_slave_coverage'}],lang:'SystemVerilog',src:{z:'C:/Users/Dell/Documents/Bachelor Thesis/UVM_FOR_AHB/tb/coverages/basic_read_single_master_single_slave_coverage.sv'},summaryTables:{loctable:{
+headers:['Coverage Type', 'Bins', 'Hits', 'Misses', 'Weight', '% Hit', 'Coverage'],
+totalhits:{class:'odd_r', val:'100.00%'},avgw:{class:'bgGreen', val:'100.00%'},
+data:[
+{link:{class:'odd',val:'g.htm?f=1&s=833,Covergroups'},tb:{class:'odd_r', val:'30'},cb:{class:'odd_r', val:'30'},ms:{class:'odd_r', val:'0'},wt:{class:'odd_r', val:'1'},hp:{class:'odd_r', val:'100.00%'},cp:{class:'bgGreen', val:'100.00%'}}
+]
+}
+}
+},
+z836:{prod:'Questa',reporttype:'in',scopes:[{s:'823',b:'1',val:'coverages_package'},{link:'z.htm?f=1&s=836',val:'reset_assertion_and_deassertion_coverage'}],lang:'SystemVerilog',src:{z:'C:/Users/Dell/Documents/Bachelor Thesis/UVM_FOR_AHB/tb/coverages/reset_assertion_and_deassertion_coverage.sv'},summaryTables:{loctable:{
+headers:['Coverage Type', 'Bins', 'Hits', 'Misses', 'Weight', '% Hit', 'Coverage'],
+totalhits:{class:'odd_r', val:'50.00%'},avgw:{class:'bgYellow', val:'50.00%'},
+data:[
+{link:{class:'odd',val:'g.htm?f=1&s=836,Covergroups'},tb:{class:'odd_r', val:'2'},cb:{class:'odd_r', val:'1'},ms:{class:'odd_r', val:'1'},wt:{class:'odd_r', val:'1'},hp:{class:'odd_r', val:'50.00%'},cp:{class:'bgYellow', val:'50.00%'}}
+]
+}
+}
+},
+z841:{prod:'Questa',reporttype:'in',scopes:[{s:'823',b:'1',val:'coverages_package'},{link:'z.htm?f=1&s=841',val:'arbitration_and_hold_idle_state_coverage'}],lang:'SystemVerilog',src:{z:'C:/Users/Dell/Documents/Bachelor Thesis/UVM_FOR_AHB/tb/coverages/arbitration_and_hold_idle_state_coverage.sv'},summaryTables:{loctable:{
+headers:['Coverage Type', 'Bins', 'Hits', 'Misses', 'Weight', '% Hit', 'Coverage'],
+totalhits:{class:'odd_r', val:'100.00%'},avgw:{class:'bgGreen', val:'100.00%'},
+data:[
+{link:{class:'odd',val:'g.htm?f=1&s=841,Covergroups'},tb:{class:'odd_r', val:'2'},cb:{class:'odd_r', val:'2'},ms:{class:'odd_r', val:'0'},wt:{class:'odd_r', val:'1'},hp:{class:'odd_r', val:'100.00%'},cp:{class:'bgGreen', val:'100.00%'}}
+]
+}
+}
+},
+z845:{prod:'Questa',reporttype:'in',scopes:[{s:'823',b:'1',val:'coverages_package'},{link:'z.htm?f=1&s=845',val:'locked_write_single_master_single_slave_coverage'}],lang:'SystemVerilog',src:{z:'C:/Users/Dell/Documents/Bachelor Thesis/UVM_FOR_AHB/tb/coverages/locked_write_single_master_single_slave_coverage.sv'},summaryTables:{loctable:{
+headers:['Coverage Type', 'Bins', 'Hits', 'Misses', 'Weight', '% Hit', 'Coverage'],
+totalhits:{class:'odd_r', val:'98.85%'},avgw:{class:'bgGreen', val:'99.66%'},
+data:[
+{link:{class:'odd',val:'g.htm?f=1&s=845,Covergroups'},tb:{class:'odd_r', val:'350'},cb:{class:'odd_r', val:'346'},ms:{class:'odd_r', val:'4'},wt:{class:'odd_r', val:'1'},hp:{class:'odd_r', val:'98.85%'},cp:{class:'bgGreen', val:'99.66%'}}
+]
+}
+}
+},
+z823:{prod:'Questa',reporttype:'in',scopes:[{link:'z.htm?f=1&s=823',val:'coverages_package'}],du:{val:'work.coverages_package',link:'z.htm?f=1&s=823'},lang:'SystemVerilog',src:{z:'C:/Users/Dell/Documents/Bachelor Thesis/UVM_FOR_AHB/tb/coverages/coverages_package.sv'},summaryTables:{
+headers:['Cvg'],
+instances:[{parent:'0',ln:'TOTAL',covs:[{class:'bgGreen', val:'92.80'},{class:'bgGreen', val:'92.80'}]},
+{parent:'0',ln:'coverages_package',covs:[{class:'bgGreen', val:'92.80'},{class:'bgGreen', val:'92.80'}]},
+{parent:'1',link:'z.htm?f=1&s=824',ln:'bus_request_coverage',covs:[{class:'bgGreen', val:'100.00'},{class:'bgGreen', val:'100.00'}]},
+{parent:'1',link:'z.htm?f=1&s=827',ln:'basic_transfer_single_master_single_slave_coverage',covs:[{class:'bgGreen', val:'100.00'},{class:'bgGreen', val:'100.00'}]},
+{parent:'1',link:'z.htm?f=1&s=830',ln:'default_master_and_slave_coverage',covs:[{class:'bgGreen', val:'100.00'},{class:'bgGreen', val:'100.00'}]},
+{parent:'1',link:'z.htm?f=1&s=833',ln:'basic_read_single_master_single_slave_coverage',covs:[{class:'bgGreen', val:'100.00'},{class:'bgGreen', val:'100.00'}]},
+{parent:'1',link:'z.htm?f=1&s=836',ln:'reset_assertion_and_deassertion_coverage',covs:[{class:'bgYellow', val:'50.00'},{class:'bgYellow', val:'50.00'}]},
+{parent:'1',link:'z.htm?f=1&s=841',ln:'arbitration_and_hold_idle_state_coverage',covs:[{class:'bgGreen', val:'100.00'},{class:'bgGreen', val:'100.00'}]},
+{parent:'1',link:'z.htm?f=1&s=845',ln:'locked_write_single_master_single_slave_coverage',covs:[{class:'bgGreen', val:'99.66'},{class:'bgGreen', val:'99.66'}]},
+]
+,loctable:{
+headers:['Coverage Type', 'Bins', 'Hits', 'Misses', 'Weight', '% Hit', 'Coverage'],
+totalhits:{class:'odd_r', val:'99.69%'},avgw:{class:'bgGreen', val:'92.80%'},
+data:[
+{link:{class:'odd',val:'Covergroups'},tb:{class:'odd_r', val:'1645'},cb:{class:'odd_r', val:'1640'},ms:{class:'odd_r', val:'5'},wt:{class:'odd_r', val:'1'},hp:{class:'odd_r', val:'99.69%'},cp:{class:'bgGreen', val:'92.80%'}}
+]
+}
+,rectable:{
+headers:['Coverage Type', 'Bins', 'Hits', 'Misses', 'Weight', '% Hit', 'Coverage'],
+totalhits:{class:'odd_r', val:'99.69%'},avgw:{class:'bgGreen', val:'92.80%'},
+data:[
+{link:{class:'odd',val:'Covergroups'},tb:{class:'odd_r', val:'1645'},cb:{class:'odd_r', val:'1640'},ms:{class:'odd_r', val:'5'},wt:{class:'odd_r', val:'1'},hp:{class:'odd_r', val:'99.69%'},cp:{class:'bgGreen', val:'92.80%'}}
+]
+}
+}
+},
+dummyEnd:0
+};
+processSummaryData(g_data);

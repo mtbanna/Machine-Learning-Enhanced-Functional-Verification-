@@ -1,0 +1,4 @@
+var g_db_data = [
+{dummy:0},
+{name:'written_all_cases',f:1,type:6,id:817,tb:'350',h:'80',m:'270',hp:'22.85%',cov:['77.50%','Y'],g:'100.00%',gp:['77.50%','Y'],opts:[[],['merge_instance','auto(true)']],hdlPath:'/coverages_package/locked_write_single_master_single_slave_coverage',parent:'816'}];
+processConsCovergroupsData(g_db_data);

@@ -1,0 +1,6 @@
+var g_data = {
+g810:[{dummy:0},
+{name:'master_grant',f:1,type:1,id:811,tb:'1000',h:'1000',m:'0',hp:'100.00%',cov:['100.00%','G'],g:'100.00%',gp:['100.00%','G'],opts:[[],['merge_instance','auto(true)']],parent:'810'}],
+dummyEnd:0
+};
+processCovergroupsData(g_data);

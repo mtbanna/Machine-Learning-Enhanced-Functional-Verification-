@@ -1,0 +1,4 @@
+var g_db_data = [
+{dummy:0},
+{name:'arbitration',f:1,type:6,id:816,tb:'2',h:'2',m:'0',hp:'100.00%',cov:['100.00%','G'],g:'100.00%',gp:['100.00%','G'],opts:[[],['merge_instance','auto(true)']],hdlPath:'/coverages_package/arbitration_and_hold_idle_state_coverage',parent:'815'}];
+processConsCovergroupsData(g_db_data);
